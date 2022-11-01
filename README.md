@@ -1,2 +1,0 @@
-# TugasRPL
-Hello World
