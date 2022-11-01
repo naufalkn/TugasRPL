@@ -17,11 +17,10 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Kelompok 3"
-        android:textSize="45dp"
-        android:textColor="@color/blue"
-        android:textStyle="bold"
         android:gravity="center"
-        />
+        android:text="Kelompok 2"
+        android:textColor="#E62626"
+        android:textSize="34sp"
+        android:textStyle="bold" />
 
 </LinearLayout>
